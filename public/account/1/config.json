@@ -1,0 +1,12 @@
+{
+  "user_id": 1,
+  "user_name": "MaoMao", 
+  "user_avatar": "https://cdn.gitblock.cn/Media?name=E6797F7AE2ACAEE556ED174DB6E6595E.png", 
+  "user_pwd": {
+    "md5": "61b9564373872432a753a1e8163621f1", 
+    "salt": 114514
+  },
+  "user_email": "snxlife.maomao@gmail.com", 
+  "user_readme": "# I love **\\_Y3CBOUtBU\\_**!\n```\n### ### ###\n#     # # #\n### ### # #\n  # #   # #\n### ### ###\n```",
+  "articles": []
+}
